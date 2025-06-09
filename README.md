@@ -15,8 +15,8 @@ Simulasi interaktif algoritma *Diffie-Hellman Key Exchange (DHKE)* berbasis web,
 1. Clone repositori ini:
 
    ```bash
-   git clone https://github.com/username/dhke-simulator.git
-   cd dhke-simulator
+   git clone https://github.com/keniafeblia/Simulasi-Diffie-Hellman-Key-Exchange-Berbasis-Web.git
+   cd Simulasi-Diffie-Hellman-Key-Exchange-Berbasis-Web
 
 2. Buka file `index.html` di browser:
 
